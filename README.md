@@ -1,6 +1,6 @@
 # awesome-data-analytics
 
-I have been coming across a ton of engineering challenges in my social media research and am pretty sure some challenges are common for everyone. I am creating a repo on Github with links to relevant blogs or code snippets on how I solved the problems. It would be great if everyone here can contribute to it too. If you're interested, please reply to this thread with your Github username, I'll add you as a contributor.
+I have been coming across a ton of engineering challenges in my social media research and am pretty sure some challenges are common for everyone. I am creating a repo on Github with links to relevant blogs or code snippets on how I solved the problems.
 
 **Pull requests and feedback is welcome!**
 
