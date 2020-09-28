@@ -12,6 +12,6 @@ Some things I plan to add to it by the end of next week
 - how random exponential backoff helps in collecting data
 - ~~parallelize any for loop with a cool progress bar XD~~
 - doing relational queries with elasticsearch
-- parallelly iterate elasticsearch in python
+- ~~parallelly iterate elasticsearch in python~~
 - elasticsearch db to csv via logstash
 - fuzzy text matching at scale
